@@ -1,0 +1,6 @@
+easyocr
+pytesseract
+pdf2image
+pillow
+python-docx
+PyMuPDF
